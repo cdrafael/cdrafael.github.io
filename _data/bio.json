@@ -39,7 +39,7 @@
   },
   "interests": [
     {
-/*      "name": "internet of things",
+      "name": "internet of things",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -53,7 +53,7 @@
     {
       "name": "artificial intelligence",
       "keywords": [
-      ] */
+      ] 
     }
   ],
   "skills": [
