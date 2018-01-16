@@ -25,7 +25,7 @@
         "username": "cdrafael",
         "url": "https://www.linkedin.com/in/charles-rhon-rafael-5a08ba156/"
       },
-      /*{
+      {
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
@@ -34,7 +34,7 @@
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
-      } */
+      } 
     ]
   },
   "interests": [
