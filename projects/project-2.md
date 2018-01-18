@@ -10,7 +10,7 @@ labels:
   - C++
   - GoogleTest
   - GitHub
-  - Lisp
+  - Scheme
 summary: The UH Manoa Transpiler Project's Scheme interpreter. I was part of the Parsings/IO Team.
 ---
 
