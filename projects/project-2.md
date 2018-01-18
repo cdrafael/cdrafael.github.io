@@ -50,12 +50,8 @@ bool number_integer(
         root -> push_child(
         shaka::Number(std::stoi(token.str)));
     	}
-
    	return accept;
 }
-
-</pre>
-<hr>
 
 As said before, I have not been with the project for two semesters so this code may be outdated or edited by someone else. At the end of the time I was a part of the project, we were able to do very simple scheme to c++ interpreting.
 
