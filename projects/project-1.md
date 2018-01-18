@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse_cover.jpg
+image: images/micromouse_cover.png
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2017-8-23
+date: 2017-08-24
 labels:
   - Robotics
   - PIC Microcontroller
   - C
-summary: My team designed and built an autonomouse stepper-motor mouse with the ability to traverse through a 16 x 16 maze.
+summary: My team developed a robotic mouse to autonomously solve a 16 x 16 maze. 
 ---
 
 <div class="ui small rounded images">
@@ -23,7 +23,7 @@ Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Event
 
 In this project, my main job was mainly in the programming apsect. However, I did help with measuring the frame of our mouse through autoCAD and getting it machined. We used MPLAB X as our IDE and used the Pickit 3 to program our PIC microcontroller. I helped with programming our FloodFill algorithm. We used different algorithms to solve the maze, such as left and right wall huggers, however, floodfill was what we ultimately wanted to use. We completed the FloodFill algorithm and put it in the mouse. We got 2nd place in the Fall 2017 competition.
 
+
+
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
 
