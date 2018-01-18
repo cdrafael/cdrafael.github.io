@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ShakaScheme.png
+image: images/Scheme.png
 title: Shaka Scheme
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
