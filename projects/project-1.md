@@ -15,7 +15,7 @@ summary: My team designed and built an autonomouse stepper-motor mouse with the 
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse_cover.jpg">
-  <img class="ui image" src="../images/Micromouse_circuit.PNG">
+  <img class="ui image" src="../images/Mircromouse_circuit.PNG">
   <img class="ui image" src="../images/micromouse.jpg">
 </div>
 
