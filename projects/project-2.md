@@ -32,10 +32,10 @@ In this project, I was part of the Parsing/IO team. My main role was to parse in
 	
 		if(token.type == Token::Type::NUMBER) {
 		
-      	  	in.get();
-        	interm += token.str;
-        	accept = true;
-    	}	
+      	  		in.get();
+        		interm += token.str;
+        		accept = true;
+    		}	
 
 		if(checkLimit(token.str) == false) {
 			accept = false;
@@ -44,8 +44,8 @@ In this project, I was part of the Parsing/IO team. My main role was to parse in
 
   		if (accept == true) {
 
-		root -> push_child(
-        	shaka::Number(std::stoi(token.str)));
+			root -> push_child(
+        		shaka::Number(std::stoi(token.str)));
     		}
    		return accept;
 	}
