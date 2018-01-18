@@ -2,14 +2,15 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: INC TRG
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2015-12-20
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Streaming
+  - Audio/Video
+  - Networking
+summary: I am part of a Technical Resource Group in my Church and we have done various projects dealing with streaming and networking.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
