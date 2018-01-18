@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/ShakaScheme.png
 title: Shaka Scheme
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
@@ -10,15 +10,14 @@ labels:
   - C++
   - GoogleTest
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Lisp
+summary: The UH Manoa Transpiler Project's Scheme interpreter. I was part of the Parsings/IO Team.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/googletest.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Shaka Scheme is a scheme to c++ converter. The full Shaka Scheme team consisted of students forming two different teams. The Parsings/IO team and Core Systems team. Parsings/IO took care of the input and output cases for the project. They analyzed whatever came into our interpreter and decided what it was. Parsings/IO focused a lot on the syntax analysis and the organization of the user input. The main source code was tackled by the Core Systems team. They were responsible for data structure and things such as functions and environments. We used GoogleTest to test our code. I was only part of this project for one semester. the very frist semester. However, this project has been going on 3 semesters so far. Many things have changed from when I was in the project.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In this project, I was part of the Parsing/IO team. My main role was to parse in numbers. I dealt with integers, rationals, decimals, etc. I used classes made from the Core Systems team to take whatever number was inputed and identified it to the corresponding class such as integer, rational, etc. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/uhmanoa-transpiler-project/shaka-scheme"><i class="large github icon">
