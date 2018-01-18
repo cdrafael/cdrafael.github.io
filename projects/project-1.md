@@ -10,7 +10,7 @@ labels:
   - Robotics
   - PIC Microcontroller
   - C
-summary: My team designed and built an autonomouse stepper-motor mouse with the ability to traverse through a 16 x 16 maze
+summary: My team designed and built an autonomouse stepper-motor mouse with the ability to traverse through a 16 x 16 maze.
 ---
 
 <div class="ui small rounded images">
