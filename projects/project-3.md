@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/trg.jpg
+image: images/trg1.jpg
 title: INC TRG
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
