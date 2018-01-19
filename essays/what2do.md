@@ -12,7 +12,7 @@ labels:
 ---
 
 ## Caught my eye
-<img class="ui medium right floated rounded image" src="../images/apple_lamp.png">
+<img class="ui medium right floated rounded image" src="../images/apple_lamp.jpg">
 
 When I was in high school I had no idea what I wanted to be. I took this class called Design Tech, where I learned how to use autoCAD. In this class, we had many design assignments. From 3D printing school focused collectables to laser printing awards for events to making lamps for teachers, this class sparked my interest in the process in which we took design and build. In addition to Design Tech, I also played a lot of video games during my free time in high school. Theres always this interest in game development thats been in the back of my mind, yet I have not pursued it. I then decided to take Computer Engineering at the University of Hawaii at Manoa. This was the start of my college adventure.
 
