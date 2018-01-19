@@ -24,5 +24,5 @@ In our chapel we installed cables, ports, and other things to give us easy acces
 
 
 
-Site used for Streaming: <a href="https://www.webex.com/"><i class="large github icon"></i>Webex</a>
+Site used for Streaming: <a href="https://www.webex.com/"></i>Webex</a>
 
