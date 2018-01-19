@@ -24,6 +24,6 @@ I am a Computer Engineer, so the only languages I learned were C and C++. In thi
 
 In this class we have these assignments called WODs, which stand for Workout of the Day. We are given a problem and we are tasked to solve that problem in a given amount of time. Although they sound very stressful, I enjoy these assignments. The frist WOD I did was very interesting and fun, it actually felt like a race. The pratice WODs in class and the DannyWODs (Practice WOD given by our TA) were exceptionally helpful because we were able to talk to our neighbors or the TA about questions we had. Since I am new to JavaScript I easily forgot some syntactical things and got stuck. I think in the end, once I pass ICS 314, I will be able to look back and thank my professor for all the WODs he will give. Hopefully, this concept of 'althetic software engineering' will benefit me in the future and make me a fit software developer.
 
-Comparing JavaScipt to C and C++, I feel that I will like JavaScript more when I learn to be more proficient in writing it. 
+Comparing JavaScipt to C and C++, I feel that I will like JavaScript more when I learn to be more proficient in writing it. JavaScript is a new language im learning so it is still foreign to me. However, because of the other programming languages I learned, JavaScript feel familiar to me in some aspects. That is why I feel that I will like JavaScript and this class.
 
 
