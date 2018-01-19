@@ -24,6 +24,5 @@ In this project, my main job was mainly in the programming apsect. However, I di
 <img class="ui medium right floated rounded image" src="../images/micromouse.png">
 
 
-
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
