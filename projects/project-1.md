@@ -21,7 +21,7 @@ Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Event
 
 In this project, my main job was mainly in the programming apsect. However, I did help with measuring the frame of our mouse through autoCAD and getting it machined. We used MPLAB X as our IDE and used the Pickit 3 to program our PIC microcontroller. I helped with programming our FloodFill algorithm. We used different algorithms to solve the maze, such as left and right wall huggers, however, floodfill was what we ultimately wanted to use. We completed the FloodFill algorithm and put it in the mouse. We got 2nd place in the Fall 2017 competition.
 
-<img class="ui medium right floated rounded image" src="../images/micromouse.png">
+<img class="ui medium right floated rounded image" src="../images/mircromouse.png">
 
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
