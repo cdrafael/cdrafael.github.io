@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Scheme.png
 title: Shaka Scheme
-permalink: projects/vacay
+permalink: projects/shakasscheme
 # All dates must be YYYY-MM-DD format!
 date: 2017-01-08
 labels:
