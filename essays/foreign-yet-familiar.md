@@ -7,7 +7,7 @@ date: 2018-01-18
 labels:
   - JavaScript
   - Learning
-  - E09: Reflect on JavaScript 1
+  - E09
 ---
 
 ## First Impression
