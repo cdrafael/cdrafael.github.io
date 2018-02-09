@@ -21,4 +21,4 @@ Learning the coding standard for ESLint allows me to build a good habit when wri
 
 <img class="ui small right circular floated image" src="../images/nagging.jpg">
 
-Even though it pains me to see a red line underneath my if statment when im not even finished writing that line of code, ESLint will always be like a nagging mother. Having a coding standard like this, I will be able to never miss a bracket or always be able to write the most efficient code. Even though I hate it, its there for only my benefit. 
+Even though it pains me to see a red line underneath my if statment when im not even finished writing that line of code, ESLint will always be like a nagging mother. Having a coding standard like this, I will be able to never miss a bracket or always be able to write the most efficient code. Even though I hate it, its there for only my benefit. It will all be worth it in the end.
