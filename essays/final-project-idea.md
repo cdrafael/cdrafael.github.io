@@ -16,12 +16,18 @@ Authors: Chaster Mateo and Charles Rafael
   Solution: Create a website that enables stress relief, which include music, motivational quotes, videos, etc.
   
 ## Mockup Page Ideas
-  Landing Page, 
-  User Homepage, 
-  Favorites page (videos, music, stuff), 
-  Search users by their favorites, 
-  Search videos, music, other stuff, 
-  Journal page, 
+  Landing Page
+  
+  User Homepage
+  
+  Favorites page (videos, music, stuff)
+  
+  Search users by their favorites
+  
+  Search videos, music, other stuff
+  
+  Journal page
+  
   Schedule to find free time
   
 ## Case Ideas
