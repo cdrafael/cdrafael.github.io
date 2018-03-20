@@ -10,12 +10,12 @@ labels:
 
 Authors: Chaster Mateo and Charles Rafael
 
-##Overview
+## Overview
   Problem: College students are stressed
   
   Solution: Create a website that enables stress relief, which include music, motivational quotes, videos, etc.
   
-##Mockup Page Ideas
+## Mockup Page Ideas
   Landing Page
   User Homepage
   Favorites page (videos, music, stuff)
@@ -24,11 +24,11 @@ Authors: Chaster Mateo and Charles Rafael
   Journal page
   Schedule to find free time
   
-##Case Ideas
+## Case Ideas
   New user goes to landing page, logs in, sets up profile, edits home page, adds favorite stuff
   User goes to landing page, logs in, finds other users, edits journal
   
-##Beyond the basics
+## Beyond the basics
   Daily motivational quotes
   
   
