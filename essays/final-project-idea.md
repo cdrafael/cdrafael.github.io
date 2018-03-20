@@ -27,10 +27,11 @@ Authors: Chaster Mateo and Charles Rafael
 ## Case Ideas
   New user goes to landing page, logs in, sets up profile, edits home page, adds favorite stuff
   User goes to landing page, logs in, finds other users, edits journal
+  Admin goes to landing page, logs in, monitors videos, etc
   
 ## Beyond the basics
   Daily motivational quotes
-  
+  (More to come)
   
 
 
