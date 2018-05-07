@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "cdrafael",
         "url": "https://www.linkedin.com/in/charles-rhon-rafael-5a08ba156/"
-      },
+      }
     ]
   },
   "interests": [
@@ -41,7 +41,7 @@
     {
       "name": "Game Development",
       "keywords": [
-      ] 
+      ]
     }
   ],
   "skills": [
@@ -65,7 +65,7 @@
         "Pickit3 and Microcontrollers",
         "MPLAB X",
         "Verilog"
-        ]
+      ]
     }
   ],
   "education": [
@@ -91,7 +91,7 @@
       ]
     }
   ],
-"work": [
+  "work": [
     {
       "company": "University of Hawaii at Manoa",
       "position": "EE 160 Grader",
@@ -101,6 +101,7 @@
       "summary": "Grader for EE 160 (Intro to Programming for Engineers)",
       "highlights": [
         "Grading homework assignments for 100 students"
+      ]
     }
   ],
   "volunteer": [
@@ -116,7 +117,7 @@
         "Worked in the Parsings I/O team",
         "Developed the code using C++, GitHub, and GoogleTest."
       ]
-    },   
+    },
     {
       "organization": "UH Manoa Micromouse",
       "website": "http://www-ee.eng.hawaii.edu/~mmouse/",
@@ -126,7 +127,7 @@
       "summary": "Worked with a team to build and design an autonomous mouse that could traverse though a maze.",
       "highlights": [
         "Worked mainly on the software side (algorithms and movement).",
-        "Developed the code using MPLAB X, used a Pickit3 with a PIC Microcontroller, DC Stepper Motor, and IR Sensors.",
+        "Developed the code using MPLAB X, used a Pickit3 with a PIC Microcontroller, DC Stepper Motor, and IR Sensors."
       ]
     },
     {
@@ -137,7 +138,7 @@
       "endDate": "Current",
       "summary": "Set up and run events such as Worship Service livestreams, musical activies, and community activities",
       "highlights": [
-        "Experience with A/V, Networking, and Streaming via OBS and Webex",
+        "Experience with A/V, Networking, and Streaming via OBS and Webex"
       ]
     },
     {
@@ -152,7 +153,7 @@
         "It was a Issue-Driven Project, where we separated the work between team members and used Github to manage and organize",
         "Final Project for Software Development class"
       ]
-    },
+    }
   ],
   "awards": [
     {
