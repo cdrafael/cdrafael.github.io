@@ -51,8 +51,21 @@
       "keywords": [
         "C",
         "C++",
-        "JavaScript"
+        "JavaScript",
+        "Semantic UI"
       ]
+    },
+    {
+      "name": "Experience With",
+      "keywords": [
+        "AutoCAD",
+        "Github",
+        "MATLab",
+        "GoogleTest",
+        "Pickit3 and Microcontrollers",
+        "MPLAB X",
+        "Verilog"
+        ]
     }
   ],
   "education": [
@@ -64,21 +77,82 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "EE160 - Programming for Engineers",
+        "EE205 - Object Oriented Programming",
+        "EE211 - Basic Circuit Analysis I",
+        "EE213 - Basic Circuit Analusis II",
+        "EE260 - Introduction to Digital Design",
+        "EE315 - Signal and System Analysis",
+        "EE323 - Microelectronic Circuits I",
+        "EE361 - Digital System & Computer Digital",
+        "EE362 - Discrete Math for Engineers",
+        "EE367 - Computer Data Structures & Algorithms",
+        "ICS314 - Software Engineering I"
       ]
+    }
+  ],
+"work": [
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "EE 160 Grader",
+      "website": "http://ee.hawaii.edu/",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Grader for EE 160 (Intro to Programming for Engineers)",
+      "highlights": [
+        "Grading homework assignments for 100 students"
     }
   ],
   "volunteer": [
     {
-      "organization": "Iglesia ni Cristo",
-      "position": "TRG",
-      "startDate": "2015",
-      "endDate": "Present",
-      "summary": "Technical Resource Group that deal with technical apsects (ex. A/V, Streaming)",
+      "organization": "UH Manoa Transpiler Project - Shaka Scheme",
+      "website": "https://github.com/uhmanoa-transpiler-project/shaka-scheme",
+      "position": "Software Developer",
+      "startDate": "2017-01-11",
+      "endDate": "2017-05-06",
+      "summary": "WEorked with a team to develop the UH Manoa Transpiler, Shaka Scheme",
       "highlights": [
-        "Chapel Services",
-        "BandTogether at Neal Blaisdelle Concert Hall"
+        "Create a Scheme interpreter following the rules outlined in R7RS.",
+        "Worked in the Parsings I/O team",
+        "Developed the code using C++, GitHub, and GoogleTest."
       ]
-    }
+    },   
+    {
+      "organization": "UH Manoa Micromouse",
+      "website": "http://www-ee.eng.hawaii.edu/~mmouse/",
+      "position": "Software Developer",
+      "startDate": "2017-08-21",
+      "endDate": "2017-12-16",
+      "summary": "Worked with a team to build and design an autonomous mouse that could traverse though a maze.",
+      "highlights": [
+        "Worked mainly on the software side (algorithms and movement).",
+        "Developed the code using MPLAB X, used a Pickit3 with a PIC Microcontroller, DC Stepper Motor, and IR Sensors.",
+      ]
+    },
+    {
+      "organization": "Iglesia Ni Cristio TRG",
+      "website": "http://iglesianicristo.net/eng",
+      "position": "Technical Resource Group Member",
+      "startDate": "2015-04-21",
+      "endDate": "Current",
+      "summary": "Set up and run events such as Worship Service livestreams, musical activies, and community activities",
+      "highlights": [
+        "Experience with A/V, Networking, and Streaming via OBS and Webex",
+      ]
+    },
+    {
+      "organization": "Look 'N' Cook",
+      "website": "https://look-n-cook.github.io/",
+      "position": "Software Developer",
+      "startDate": "2018-03-23",
+      "endDate": "2018-05-04",
+      "summary": "Developed a website using Meteor and Semantic UI React for UH students to share and view recipes with others",
+      "highlights": [
+        "Main role dealt with data creation and manipulation via MongoDB",
+        "It was a Issue-Driven Project, where we separated the work between team members and used Github to manage and organize",
+        "Final Project for Software Development class"
+      ]
+    },
   ],
   "awards": [
     {
