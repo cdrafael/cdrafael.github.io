@@ -67,4 +67,4 @@ const RecipeSchema = new SimpleSchema({
 In the end, I feel that we were able to get a lot done and that the website is very usable and well done. There were still a couple functions we were not able to implement, such as, having a function to add up the cheapest ingredients by the vendors to calculation the cheapest price, having a function that calculates the average ratings of a recipe, only allowing UH emails to be registered, or having a function that verifies vendors. However, with the functionality Look 'N' Cook has right now, im very proud of it. The final project allowed me to be more exposed with software development, working with a small team via github, and honing various communication, planning, and organization skills.
 
 Source: <a href="https://look-n-cook.github.io/"><i class="large github icon"></i>Look 'N' Cook Documentation</a>
-Website: <a href="http://look-n-cook.meteorapp.com/#/"></i>Look 'N' Cook</a>
+Website: <a href="http://look-n-cook.meteorapp.com/#/">Look 'N' Cook</a>
