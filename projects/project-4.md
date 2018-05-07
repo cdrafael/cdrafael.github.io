@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo.png
+image: images/icon.png
 title: Look 'N' Cook
 permalink: projects/look-n-cook
 # All dates must be YYYY-MM-DD format!
